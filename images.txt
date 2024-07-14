@@ -1,2 +1,1 @@
-
-superng6/qbittorrentee:4.6.5.10
+wcjiang/linux-command
