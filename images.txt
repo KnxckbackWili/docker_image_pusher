@@ -1,1 +1,1 @@
-wcjiang/linux-command
+simpletracker/qbittorrent-clientblocker
