@@ -1,1 +1,1 @@
-ghostchu/peerbanhelper
+ghostchu/peerbanhelper:v5.0.0
