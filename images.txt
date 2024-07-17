@@ -1,1 +1,1 @@
-ghostchu/peerbanhelper:v5.0.2
+linuxserver/transmission
