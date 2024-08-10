@@ -1,1 +1,1 @@
-lovechen/embyserver
+rustdesk/rustdesk-server:1
