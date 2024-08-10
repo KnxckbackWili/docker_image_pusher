@@ -1,1 +1,1 @@
-chenhw2/aliyun-ddns-cli:latest
+kylemanna/openvpn:2.4
