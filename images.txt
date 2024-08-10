@@ -1,1 +1,1 @@
-linuxserver/transmission
+jeessy/ddns-go
