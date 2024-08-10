@@ -1,1 +1,1 @@
-jeessy/ddns-go
+chenhw2/aliyun-ddns-cli:latest
