@@ -1,1 +1,1 @@
-xhofe/alist:latest
+cnk3x/xunlei
