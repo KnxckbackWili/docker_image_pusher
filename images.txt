@@ -1,1 +1,1 @@
-cnk3x/xunlei
+cnk3x/xunlei:latest
