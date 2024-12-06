@@ -1,1 +1,1 @@
-hsuyelin/nas-tools:latest
+allanpk716/chinesesubfinder:latest
