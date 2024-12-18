@@ -1,1 +1,1 @@
-home-assistant:latest
+homeassistant/home-assistant:latest
