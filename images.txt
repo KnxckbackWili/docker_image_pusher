@@ -1,1 +1,1 @@
-dokkaner/teemii-backend:latest
+dokkaner/teemii-frontend:latest
