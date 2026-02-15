@@ -1,1 +1,1 @@
-cnk3x/xunlei:latest
+kimi360/homebox:latest
