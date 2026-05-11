@@ -1,1 +1,1 @@
-kimi360/homebox:latest
+ghcr.io/knxckbackwili/clipmate-relay:latest
